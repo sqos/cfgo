@@ -3,7 +3,7 @@ package m2
 import (
 	"fmt"
 
-	"github.com/andeya/cfgo"
+	"github.com/sqos/cfgo"
 )
 
 type T2 struct {

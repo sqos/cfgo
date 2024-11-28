@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/andeya/cfgo"
-	"github.com/andeya/cfgo/test/m1"
-	_ "github.com/andeya/cfgo/test/m2"
+	"github.com/sqos/cfgo"
+	"github.com/sqos/cfgo/test/m1"
+	_ "github.com/sqos/cfgo/test/m2"
 )
 
 type T struct {
